@@ -1,3 +1,8 @@
-# RipperC2
-This is my personal almost best C2 botnet! for now its also free!
-it has different commands like l4 and l7 then clear, help or ?
+
+<body>
+    <h1><strong>Discord</strong></h1>
+    <div id="server">
+    <a href="https://discord.gg/xRMGKc8Sf5" target="_blank"><img src="https://d.top4top.io/p_2300fgv6i1.png" alt="TECH SERVER"></a>
+</div>
+</body>
+</html>
